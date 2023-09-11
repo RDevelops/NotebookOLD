@@ -1,5 +1,13 @@
-## Defenition:
+## Definition:
 A database used to keep information in tables, which are joined into datasets.
+# Terminology
+| Term | Defenition |
+| -----| -------|
+| Relations | Table, grid made of rows and columns. |
+| Tuples | Record, row in database, Each tuple is one item (e.g. one book in a bookstore DB) |
+| Attributes | Information on a record, such as the price of a book|
+| Domains | The requirement for the attribute - data type, and other rules - E.G. `(int, 1, 10)`
+| Cardinality | The uniqueness of an atribute, Repeated values would have a "Low cardinality" where as non-repeated values would have Cardinality
 
 # Types of RDMS/RDBMS
 | | Desktop | Server |
@@ -14,14 +22,6 @@ A database used to keep information in tables, which are joined into datasets.
 | Pros| Cheap, Easier to use for less IT literate users, No need for internet connection | Not scaleable |
 | Cons| Lesser access | Expensive |
 
-# Terminology
-| Term | Defenition |
-| -----| -------|
-| Relations | Table, grid made of rows and columns. |
-| Tuples | Record, row in database, Each tuple is one item (e.g. one book in a bookstore DB) |
-| Attributes | Information on a record, such as the price of a book|
-| Domains | The requirement for the attribute - data type, and other rules - E.G. `(int, 1, 10)`
-| Cardinality | The uniqueness of an atribute, Repeated values would have a "Low cardinality" where as non-repeated values would have Cardinality
 
 # Example table
 | ISBN | BOOK TITKE | GENRE | PRICE | PUBLISHER ID |

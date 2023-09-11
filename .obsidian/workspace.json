@@ -20,15 +20,18 @@
             }
           },
           {
-            "id": "b24176c129748628",
+            "id": "d0171b6383788377",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Digital Devices in IT systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 2/Databases RDMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 2/Databases RDMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unit 2/Databases RDMS.md"
+              }
             }
           }
         ]
@@ -151,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04d4363dc49aaf26",
+  "active": "7a2800ea1f831983",
   "lastOpenFiles": [
+    "Digital Devices in IT systems.md",
+    "Unit 2/Databases RDMS.md",
     "Unit 1",
-    "Unit 2",
-    "Unit 2/Databases RDMS.md"
+    "Unit 2"
   ]
 }

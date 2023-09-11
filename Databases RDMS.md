@@ -11,7 +11,7 @@ A database used to keep information in tables, which are joined into datasets.
 # Pros and cons
 |  | Desktop | Server |
 | ------ | ------ | -------|
-| Pros| Cheap, Easier to use for less IT literate users | Not scaleable |
+| Pros| Cheap, Easier to use for less IT literate users, No need for internet connection | Not scaleable |
 | Cons| Lesser access | Expensive |
 
 # Terminology
@@ -56,8 +56,8 @@ SQL is based on a mathematic query language called relational algebra. Relationa
 |[[#Symbols \|Select]] | Retrieve a subset of [[#Terminology \|Tuples]] from a [[#Terminology \|Table]] that meet certain criteria | Find information you need in a [[#Terminology \|Table]] |
 |[[#Symbols \|Union]] | Retrieve a subset of [[#Terminology \|Tuples]] from two [[#Terminology \|Tables]], requires both [[#Terminology \|Tables]] to have the same number of [[#Terminology \|Tuples]] and [[#Terminology \|Attributes]]| Match data between two [[#Terminology \|Tables]]
 |[[#Symbols \|Intersect]] | Similar to [[#Symbols \|Union]], although only gets information from both [[#Terminology \|Tables]]. | Get the information from 2 [[#Terminology \|Tables]] with little to no requirements.
-|[[#Symbols \|Join]] | Combine [[#Terminology \|Attributes]] from two [[#Terminology \|Tables]] | Join two [[#Terminology \|Tables ]] into a dataset|
-Going back to our example DB, using the `Select` operator to search for a Publisher ID of "123" Would yield this response:
+|[[#Symbols \|Join]] | Combines [[#Terminology \|Attributes ]] from two [[#Terminology \|Tables ]], [[#Terminology \|Tuples ]] from [[#Terminology \|Table ]] 1 will be shown alongside the [[#Terminology \|Tuples ]] in [[#Terminology \|Table ]] 2. Requires both [[#Terminology \|Tables ]] to have at least one [[#Terminology \|Attribute ]] in common. | Join two [[#Terminology \|Tables ]] into a dataset|
+Going back to our example DB, using the `Select` operator to search for a Publisher ID of `123` Would yield this response:
 
 | ISBN | BOOK TITKE | GENRE | PRICE | PUBLISHER ID |
 | -----| ------| ------| -----| -----|

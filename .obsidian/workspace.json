@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Devices in IT systems.md",
+                "file": "Unit 1/Digital Devices in IT systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Devices in IT systems.md",
+                "file": "Unit 2/Databases RDMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Devices in IT systems.md",
+                "file": "Unit 2/Databases RDMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Devices in IT systems.md"
+                "file": "Unit 2/Databases RDMS.md"
+              }
+            }
+          },
+          {
+            "id": "adbab6ebe9a531ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0171b6383788377",
+  "active": "7a2800ea1f831983",
   "lastOpenFiles": [
+    "Unit 1/Digital Devices in IT systems.md",
     "Unit 2/Databases RDMS.md",
     "Digital Devices in IT systems.md",
     "Unit 1",

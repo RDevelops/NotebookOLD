@@ -1,32 +1,20 @@
 {
   "main": {
-    "id": "34feacc93cdbb920",
+    "id": "a2c512c191053a3a",
     "type": "split",
     "children": [
       {
-        "id": "c614d2f30520ff95",
+        "id": "4ced070a854dccd1",
         "type": "tabs",
         "children": [
           {
-            "id": "7a2800ea1f831983",
+            "id": "f8dd670332f52c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/Databases RDMS.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0171b6383788377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1/Digital Devices in IT systems.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "058eab7195d68a8e",
+    "id": "c1ec8910f1af53d8",
     "type": "split",
     "children": [
       {
-        "id": "64fe6b935587583c",
+        "id": "6854c5d7ba1f980f",
         "type": "tabs",
         "children": [
           {
-            "id": "04d4363dc49aaf26",
+            "id": "c9cfb6ed075ec732",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "88fae4cf9b454aa1",
+            "id": "ca88c513d77c59f9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "1b699e060438c623",
+            "id": "0564c1eed3bb3e21",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "511177612d60c757",
+    "id": "4a2abd8943031011",
     "type": "split",
     "children": [
       {
-        "id": "cc6b362c272223a7",
+        "id": "c59487b4aa77bbbf",
         "type": "tabs",
         "children": [
           {
-            "id": "14008d9bc28f88b3",
+            "id": "187a2ddb7e229250",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Databases RDMS.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "b06b9ddd1f8764e4",
+            "id": "f809a0315d940362",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Databases RDMS.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b43e5e013337a71a",
+            "id": "9bbaf0ef812b3276",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,22 +120,12 @@
             }
           },
           {
-            "id": "5cd9d4ad0b371dfc",
+            "id": "d309e7a948aa9476",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Databases RDMS.md"
-              }
-            }
-          },
-          {
-            "id": "adbab6ebe9a531ea",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Unit 3/Social media and its purpose.md"
               }
             }
           }
@@ -168,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a2800ea1f831983",
+  "active": "f8dd670332f52c7a",
   "lastOpenFiles": [
-    "Unit 1/Digital Devices in IT systems.md",
+    "Social media insights.png",
+    "Pasted image 20230914093947.png",
+    "Unit 3/Social media and its purpose.md",
+    "().md",
+    "Unit 3",
     "Unit 2/Databases RDMS.md",
-    "Digital Devices in IT systems.md",
-    "Unit 1",
-    "Unit 2"
+    "Unit 2",
+    "Unit 1/Digital Devices in IT systems.md",
+    "Unit 1"
   ]
 }

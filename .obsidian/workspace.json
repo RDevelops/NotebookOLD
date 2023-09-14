@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
-                "mode": "preview",
+                "file": "Unit 3/High Peak Autos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
+                "file": "Unit 3/High Peak Autos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
+                "file": "Unit 3/High Peak Autos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md"
+                "file": "Unit 3/High Peak Autos.md"
+              }
+            }
+          },
+          {
+            "id": "774f2e56f35ab6a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,11 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8dd670332f52c7a",
+  "active": "c9cfb6ed075ec732",
   "lastOpenFiles": [
-    "Social media insights.png",
-    "Pasted image 20230914093947.png",
+    "Unit 3/HPA Writeup",
     "Unit 3/Social media and its purpose.md",
+    "Unit 3/High Peak Autos.md",
+    "Unit 3/Social media insights.png",
+    "Pasted image 20230914093947.png",
     "().md",
     "Unit 3",
     "Unit 2/Databases RDMS.md",

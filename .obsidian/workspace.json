@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/High Peak Autos.md",
+                "file": "Unit 4/Computational Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b7ae96a0fd866a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Decomposition.png"
+              }
+            }
+          },
+          {
+            "id": "1345e6ac50b1b734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/High Peak Autos.md",
+                "file": "Project management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/High Peak Autos.md",
+                "file": "Project management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/High Peak Autos.md"
+                "file": "Project management.md"
               }
             }
           },
@@ -156,12 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cfb6ed075ec732",
+  "active": "1345e6ac50b1b734",
   "lastOpenFiles": [
-    "Unit 3/HPA Writeup",
+    "Unit 4/Decomposition.png",
+    "Project management.md",
+    "Unit 9",
+    "Unit 4/Computational Thinking.md",
     "Unit 3/Social media and its purpose.md",
-    "Unit 3/High Peak Autos.md",
+    "Unit 4",
     "Unit 3/Social media insights.png",
+    "Unit 3/High Peak Autos.md",
+    "Unit 3/HPA Writeup",
     "Pasted image 20230914093947.png",
     "().md",
     "Unit 3",

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8dd670332f52c7a",
+            "id": "647ee37ac367b84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b7ae96a0fd866a7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unit 4/Decomposition.png"
-              }
-            }
-          },
-          {
-            "id": "1345e6ac50b1b734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project management.md",
+                "file": "Unit 4/Computational Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project management.md",
+                "file": "Unit 4/Computational Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project management.md"
+                "file": "Unit 4/Computational Thinking.md"
               }
             }
           },
@@ -179,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1345e6ac50b1b734",
+  "active": "647ee37ac367b84c",
   "lastOpenFiles": [
-    "Unit 4/Decomposition.png",
-    "Project management.md",
-    "Unit 9",
+    "Unit 9/Project management.md",
     "Unit 4/Computational Thinking.md",
+    "Unit 9",
+    "Unit 4/Decomposition.png",
+    "Unit 9",
     "Unit 3/Social media and its purpose.md",
     "Unit 4",
     "Unit 3/Social media insights.png",

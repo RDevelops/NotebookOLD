@@ -39,7 +39,7 @@ Information:
 ### Possible reasons for budget overrun
 - Lack of time and cost tracking
 - Unreasonable original budget
-S
+
 ### Possible fixes for budget overruns
 - Implement monitoring and tracking software
 - Have backup plans built for the budget in case of overruns (e.g. have the "budget" be 75% of the actual budget)

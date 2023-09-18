@@ -32,6 +32,8 @@ Internal storage is like a memory card built into the camera, where photos and v
 - Non-expandable - You cant just add extra storage, you will need to delete or transfer files
 - Risk of data loss - If the camera is damaged, there's a risk of losing any files inside of the storage.
 - More expensive - cameras with higher internal storage can be more expensive.
+
+---
 ## Externally
 SD cards are small memory cards used in digital cameras to store data.
 
@@ -45,7 +47,7 @@ SD cards are small memory cards used in digital cameras to store data.
 - Speed differences - Different SD cards can have different speeds, and higher-speed cards are often much more expensive.
 - Compatibility issues - Not all cameras support all types of SD cards - there are different types of SD cards such as SDHC, SDXC and UHS
 - Organisation issues - Multiple SD cards can cause issues with organising different photos/videos.
-
+--- 
 ## SD Card standards
 
 | SD Card Standard        | Definition                                                                                   | Example                                    |
@@ -58,7 +60,7 @@ SD cards are small memory cards used in digital cameras to store data.
 | **UHS-III (Ultra High-Speed Phase III)** | The latest standard with ultra-high-speed data transfer. | A UHS-III card with advanced features for professional video cameras. |
 | **microSD Cards** | Smaller versions suitable for mobile devices, action cameras, and drones. | A 64 GB microSD card used in a smartphone for storage expansion. |
 | **microSDHC and microSDXC Cards** | Higher-capacity microSD cards following the same standards. | A 256 GB microSDXC card used in a drone for extended recording. |
-(THIS INFORMATION WAS GENERATED WITH CHATGPT, WILL BE REFORMATTED AT A LATER DATE)
+
 
 # Zooms
 
@@ -75,6 +77,8 @@ The cameras lens changes the focal length, bringing the subject closer or farthe
 ### Cons
 - Better optical zoom is usually more expensive
 - Better optical zoom lenses are usually bigger and heavier
+
+---
 ## Digital Zoom
 
 ### About
@@ -107,6 +111,7 @@ It uses optics to bring faraway objects closer without moving the camera, mainta
 - Can be bulky and heavy
 - High-quality telephoto lenses are costly
 
+---
 ## Macro Lens
 
 ### About
@@ -124,6 +129,7 @@ Optimized for short distances, it lets you get very close while keeping sharpnes
 - Limited to extreme close-ups
 - Requires stable focusing
 
+---
 ## Wide-Angle Lens
 
 ### About
@@ -141,6 +147,7 @@ With a short focal length, it expands the field of view, adding depth.
 - Can distort up close
 - Not ideal for portraits
 
+---
 ## Zoom Lens
 
 ### About
@@ -160,11 +167,225 @@ Using multiple lens elements, it switches between wide-angle and telephoto setti
 
 
 # Types of cameras
-## Basic point-and-shoot
+## Basic Point and Shoot Camera
 
-## Advanced point-and-shoot
+### About
+Basic Point and Shoot cameras are user-friendly and designed for simple, automatic photography.
 
-## Compact System Cameras (CSC)
+### Pros
+- Easy to use with minimal settings
+- Compact and portable
+- Affordable and budget-friendly
+- Ideal for casual photographers and beginners
 
-## Digital Single Lens Reflex (DSLR)
+### Cons
+- Limited manual controls
+- Lower image quality compared to advanced models
+- Less versatility for creative photography
 
+---
+## Advanced Point and Shoot Camera
+
+### About
+Advanced Point and Shoot cameras offer more control and features than basic models while remaining compact and portable.
+
+### Pros
+- Enhanced manual settings for creative control
+- Better image quality and zoom capabilities
+- Compact and more portable than DSLRs
+- Suitable for enthusiasts and travellers
+
+### Cons
+- Less versatile than CSCs and DSLRs
+- Fixed lenses limit flexibility
+- May be pricier than basic models
+
+---
+
+## CSC (Compact System Camera)
+
+### About
+Compact System Cameras (CSCs) combine portability with interchangeable lenses and advanced features, offering a middle ground between point and shoot and DSLR cameras.
+
+### Pros
+- Interchangeable lenses for versatility
+- Excellent image quality and low-light performance
+- Compact and lighter than DSLRs
+- Suitable for photographers seeking portability and quality
+
+### Cons
+- Limited lens selection compared to DSLRs
+- May lack advanced features of high-end DSLRs
+- Pricier than basic point and shoot cameras
+
+---
+
+## DSLR (Digital Single-Lens Reflex Camera)
+
+### About
+DSLR cameras are known for their exceptional image quality, interchangeable lenses, and extensive manual controls, making them a top choice for professionals and serious hobbyists.
+
+### Pros
+- Exceptional image quality and versatility
+- Extensive manual controls for customization
+- Wide range of compatible lenses and accessories
+- Preferred choice for professional photographers
+
+### Cons
+- Bulky and heavy compared to other camera types
+- Learning curve for beginners
+- Higher cost, especially with premium lenses and accessories
+
+
+# Transferring photos
+
+## USB Cable
+
+### About
+USB Cable transfer involves connecting your camera or device to a computer using a USB cable to transfer photos.
+
+### Pros
+- Direct and fast transfer of photos
+- No need for internet connectivity
+- Reliable and widely compatible
+- Suitable for large files and high-quality images
+
+### Cons
+- Requires a physical cable connection
+- Limited to devices with USB ports
+- May require driver installation
+
+---
+
+## Wi-Fi
+
+### About
+Wi-Fi transfer allows you to send photos wirelessly from your camera or device to another device on the same network.
+
+### Pros
+- Wireless and convenient
+- Suitable for mobile devices and cameras with built-in Wi-Fi
+- No physical cables required
+- Can transfer to multiple devices simultaneously
+
+### Cons
+- Slower transfer speed compared to USB
+- May require internet connectivity or a Wi-Fi network
+- Compatibility may vary among devices
+
+---
+
+## Bluetooth
+
+### About
+Bluetooth transfer enables wireless photo sharing between devices with Bluetooth capability.
+
+### Pros
+- Wireless and effortless
+- Suitable for mobile devices and some cameras
+- No internet connection required
+- Energy-efficient for battery-powered devices
+
+### Cons
+- Slower transfer speed compared to Wi-Fi and USB
+- Limited range (typically within 30 feet)
+- May not support large file transfers
+
+---
+
+## Memory Card Reader
+
+### About
+A Memory Card Reader allows you to transfer photos by inserting your camera's memory card into the reader and connecting it to a computer.
+
+### Pros
+- Simple and reliable
+- No need for additional cables or drivers
+- Works with various memory card types
+- Fast transfer speed for large files
+
+### Cons
+- Requires a separate card reader device
+- Limited to devices with compatible memory card slots
+- May not be as convenient for mobile devices
+
+# Editing photos
+## Desktop Photo Editing Software
+
+### About
+Desktop photo editing software is installed on your computer and offers powerful editing tools for professional and creative photo enhancements.
+
+### Pros
+- High-quality editing capabilities
+- Extensive feature sets for advanced users
+- No reliance on internet connectivity
+- Efficient for batch editing and large files
+
+### Cons
+- Requires installation and storage space
+- May be more complex for beginners
+- Typically comes with a price tag
+
+#### Free: **GIMP (GNU Image Manipulation Program)**
+- An open-source and free photo editor with a wide range of editing tools.
+- Suitable for both basic and advanced editing needs.
+
+#### Paid: **Adobe Photoshop**
+- The industry-standard for photo editing with advanced features.
+- Offers powerful tools for professionals and enthusiasts.
+
+---
+
+## Online Photo Editing Software
+
+### About
+Online photo editing software runs within web browsers, allowing you to edit photos without installing software on your device.
+
+### Pros
+- Accessibility from any device with internet access
+- No need for software downloads or updates
+- Collaboration and sharing features
+- Many options offer free basic features
+
+### Cons
+- May require a stable internet connection
+- Limited offline functionality
+- May have restrictions on file sizes
+
+#### Free: **Pixlr**
+- A web-based photo editor with a user-friendly interface.
+- Offers a range of editing tools, filters, and effects.
+
+#### Paid: **Adobe Photoshop Express (Online)**
+- A web version of Adobe Photoshop with essential editing features.
+- Syncs with Adobe Creative Cloud for seamless workflow.
+
+---
+
+## Mobile Photo Editing Apps
+
+### About
+Mobile photo editing apps are available on smartphones and tablets, providing on-the-go editing and creative options.
+
+### Pros
+- Convenient for quick edits and sharing
+- Accessible anytime, anywhere
+- User-friendly interfaces
+- Many free apps with in-app purchase options
+
+### Cons
+- Limited screen space for complex edits
+- May have fewer features compared to desktop software
+- Potential restrictions on export quality
+
+#### Free: **Snapseed**
+- A versatile mobile app with professional-level editing tools.
+- Offers a user-friendly interface and various filters.
+
+#### Paid: **Adobe Lightroom (Mobile)**
+- A mobile version of Adobe Lightroom with advanced editing capabilities.
+- Integrates with the desktop version for seamless editing.
+
+# Printing photos
+
+# ***SOME OF THIS WAS GENERATED WITH CHATGPT SO I WILL REWRITE IT EVENTUALLY***

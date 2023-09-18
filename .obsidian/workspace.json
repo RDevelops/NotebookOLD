@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Computational Thinking.md",
+                "file": "Unit 2/RDMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Computational Thinking.md",
+                "file": "Unit 2/RDMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Computational Thinking.md",
+                "file": "Unit 2/RDMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Computational Thinking.md"
+                "file": "Unit 2/RDMS.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "647ee37ac367b84c",
   "lastOpenFiles": [
-    "Unit 9/Project management.md",
+    "Unit 1/Digital Devices in IT systems.md",
     "Unit 4/Computational Thinking.md",
+    "Unit 9/Project management.md",
     "Unit 9",
     "Unit 4/Decomposition.png",
     "Unit 9",
@@ -171,9 +172,8 @@
     "Pasted image 20230914093947.png",
     "().md",
     "Unit 3",
-    "Unit 2/Databases RDMS.md",
+    "Unit 2/RDMS.md",
     "Unit 2",
-    "Unit 1/Digital Devices in IT systems.md",
     "Unit 1"
   ]
 }

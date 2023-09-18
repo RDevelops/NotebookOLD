@@ -29,19 +29,19 @@ Decomposition is breaking down tasks into smaller tasks;
 
 ![[Decomposition.png]]
 
-### Why do we do it?
+## Why do we do it?
 - Easier to focus on one task at a time
 - Examine specific details clearly
 - Smaller tasks are easier to understand and solve
 - Makes problem solving more manageable
 
-### What is involved?
+## What is involved?
 - Identifying and describing problems and processes
 - Breaking down problems and processes into distinct steps
 - Describing problems and processes as a set of structured steps
 - Communicating key features of problems and process to others as relevant
 
-### Example
+## Example
 
 | **Make Breakfast**  |
 | -- | -- |
@@ -54,18 +54,18 @@ Decomposition is breaking down tasks into smaller tasks;
 
 # Pattern recognition
 A pattern is a set of characteristics to describe something, and finding things that are similar.
-### Why do we do it?
+## Why do we do it?
 - Enables automation of tasks based on patterns
 - Detect irregularities
 - Helps us quickly make sense of large amounts of data
 - Uncover new possibilities and fixes to problems
 
-### What is involved?
+## What is involved?
 - Identifying common elements
 - Identifying and interpreting the differences
 - Describing patterns that have been identified
 - Making predictions based on identified patterns
-### Example
+## Example
 - A cake will need a precise quantity of specific ingredients
 - Ingredients will be added at a specific time
 - Each cake will bake for a specific period of time
@@ -80,17 +80,17 @@ A pattern is a set of characteristics to describe something, and finding things 
 # Abstraction
 Abstraction is the simplification of a more complex process or feature
 
-### Why do we do it?
+## Why do we do it?
 - Provides "thinking distance" for the programmer
 - Less worry about how something actually works
 - helps to identify the repeating patterns that actually exist
 - Decide what to include and what to ignore
-### What is involved?
+## What is involved?
 - Identifying key details
 - Creating general concepts
 - Adaptable levels of detail
 - Simplifying complexity
-### Example
+## Example
 | Example                | Abstraction                                               |
 |------------------------|----------------------------------------------------------|
 | **Real-World Scenario**| Building a car engine.                                    |
@@ -101,19 +101,19 @@ Abstraction is the simplification of a more complex process or feature
 # Algorithms
 An algorithm is a step-by-step set of instructions for solving a specific problem or performing a particular task.
 
-### Why do we use them?
+## Why do we use them?
 - Provides a systematic approach to problem-solving
 - Enables efficient and consistent solutions
 - Can be reused for similar problems
 - Facilitates analysis and optimization of processes
 
-### What is involved?
+## What is involved?
 - Defining the problem to be solved
 - Designing a sequence of steps or instructions
 - Ensuring correctness and completeness
 - Analyzing time and space complexity
 - Implementing and testing the algorithm
-### Example
+## Example
 
 | # | instruction |
 | --- | --- |

@@ -11,8 +11,12 @@
             "id": "cb8d1972ac272a57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1/Digital Cameras.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 1/Digital Cameras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 1/Digital Cameras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unit 1/Digital Cameras.md"
+              }
             }
           },
           {
@@ -150,10 +158,11 @@
   },
   "active": "cb8d1972ac272a57",
   "lastOpenFiles": [
-    "Unit 4/Computational Thinking.md",
-    "Unit 2/RDMS.md",
     "Unit 1/Digital Devices in IT systems.md",
     "Unit 9/Project management.md",
+    "Unit 4/Computational Thinking.md",
+    "Unit 2/RDMS.md",
+    "Unit 1/Digital Cameras.md",
     "Unit 9",
     "Unit 4/Decomposition.png",
     "Unit 9",

@@ -16,7 +16,7 @@ Targeted advertising
 
 ---
 # SEO
-SEO is optimising your website for the search engine
+SEO is optimizing your website for the search engine
 
 | Benefit | How does it help |
 | -- | -- |
@@ -36,7 +36,7 @@ Businesses need to develop their social media followers
 - Quizzes
 ## Different types of content
  - Information
- - Humour
+ - Humor
  - Promotion (new products, special offers, etc)
  - Customer service
 

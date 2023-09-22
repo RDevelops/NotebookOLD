@@ -85,3 +85,11 @@ Information:
 - Review deliverables
 - Get results approved
 - Document learnings
+
+# Advantages and disadvantages
+| Advantages | Disadvantages |
+| -- | -- |
+| Easy to follow | People work in different ways, this may not be as affective for certian members of the team |
+| Simple | Can be too basic
+| Visual | Not enough information may be provided when you need to know more |
+| Helps organisation | People work in different ways, it may mean that members of the team are less organised |

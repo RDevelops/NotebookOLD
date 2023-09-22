@@ -78,7 +78,7 @@ A pattern is a set of characteristics to describe something, and finding things 
 | 4 | Whisk 300ml of cream | Bake for 30 minutes |
 
 # Abstraction
-Abstraction is the simplification of a more complex process or feature
+Abstraction is the simplification of a more complex process or feature.
 
 ## Why do we do it?
 - Provides "thinking distance" for the programmer

@@ -53,3 +53,35 @@ Information:
 - Compile a solid team of workers
 - Remove pressure from higher ups
 - Follow advice for managing budget
+
+# Project management cycle
+![[Project management cycle.canvas]]
+## Initiation Phase
+- Define project goals
+- Create a business case
+- Complete the project charter
+- Draw up the list of stakeholders
+
+## Planning phase
+- Define scope
+- Create a project plan
+- Set a budget baseline
+- Define roles and responsibilities
+
+## Execution
+- Allocate project resources
+- Manage project resources
+- Build the project or process
+- Meet often and fix issues as they rise
+
+## Monitoring and control
+- Track effort and cost
+- Monitor project progress
+- Ensure adherence to plan
+- Prevent any chance for disruptions
+
+## Completion
+- Hand over deliverables
+- Review deliverables
+- Get results approved
+- Document learnings

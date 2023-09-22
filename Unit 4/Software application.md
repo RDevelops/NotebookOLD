@@ -40,3 +40,5 @@ There are many different ways to categorize applications, for example;
 | Halifax | Banking | Contacting bank | Scammers
 | Indeed | Job Searching | Get a job | Social withdrawal
 | MS word | Word processing | Note taking | Time consuming |
+
+# Software solving problems for clients

@@ -147,3 +147,87 @@ A single record of a table is related to many records of another table, for exam
 
 ### Many to many
 More than one record of a table is related to more than one record in another table. Unfortunately, these relationships are impossible inside of a relational database. While they exist, we must resolve this into multiple one to many relationships.
+
+
+# SQL Queries
+
+In this example I have 1 sample Database:
+
+| SalaryID | Date | Salary | EmployeeID | EmployeeUsername | EmployeeName |
+| -- | -- | -- | --| -- | -- |
+| 1 | Dec-2017 | 1500 | 1 | 7528 | Steve |
+| 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
+| 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
+| 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |
+
+## Select query
+With the SELECT query, you can select certain things:
+```
+SELECT SalaryID, EmployeeName
+FROM SampleTbl
+```
+This will select the following information:
+
+| SalaryID | EmployeeName |
+| -- | -- |
+| 1 | Steve |
+| 2 | Anna |
+| 3 | Ahmed |
+| 4 | Tina |
+
+## Select WHERE 
+With the SELECT Query you can select things within certain parameters:
+```
+SELECT *
+FROM SampleTbl
+WHERE SalaryID=1
+```
+Will select the following information:
+
+| SalaryID | Date | Salary | EmployeeID | EmployeeUsername | EmployeeName |
+| -- | -- | -- | --| -- | -- |
+| 1 | Dec-2017 | 1500 | 1 | 7528 | Steve |
+## Insert into
+With the INSERT query, you can add information to tables:
+```
+INSERT INTO SampleTbl (SalaryID, Date, Salary, EmployeeID, EmployeeUsername, EmployeeName)
+VALUES ('5', 'Oct-2017', '1850', '5', '8103', 'Bob');
+```
+Will edit the table to look like this:
+
+| SalaryID | Date | Salary | EmployeeID | EmployeeUsername | EmployeeName |
+| -- | -- | -- | --| -- | -- |
+| 1 | Dec-2017 | 1500 | 1 | 7528 | Steve |
+| 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
+| 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
+| 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |
+| 5 | Oct-2017 | 1850 | 5 | 8103 | Bob |
+## Update
+Allows you to update existing records in a table:
+```
+UPDATE SampleTbl SET Salary='2000'
+WHERE SalaryID =1;
+```
+Will update the tale to look like this:
+
+| SalaryID | Date | Salary | EmployeeID | EmployeeUsername | EmployeeName |
+| -- | -- | -- | --| -- | -- |
+| 1 | Dec-2017 | 2000 | 1 | 7528 | Steve |
+| 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
+| 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
+| 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |
+| 5 | Oct-2017 | 1850 | 5 | 8103 | Bob |
+
+## Delete
+Allows you to delete a record in a table
+```
+DELETE FROM SampleTbl WHERE salaryID='5'
+```
+Will update the table to look like this:
+
+| SalaryID | Date | Salary | EmployeeID | EmployeeUsername | EmployeeName |
+| -- | -- | -- | --| -- | -- |
+| 1 | Dec-2017 | 2000 | 1 | 7528 | Steve |
+| 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
+| 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
+| 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |

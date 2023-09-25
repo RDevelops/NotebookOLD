@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/RDMS.md",
+                "file": "Unit 1/Digital Devices in IT systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c89e807b15a1db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1/Pheripheral Devices and media.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/RDMS.md",
+                "file": "Unit 1/Pheripheral Devices and media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/RDMS.md",
+                "file": "Unit 1/Pheripheral Devices and media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/RDMS.md"
+                "file": "Unit 1/Pheripheral Devices and media.md"
               }
             }
           },
@@ -156,19 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cfb6ed075ec732",
+  "active": "7c89e807b15a1db6",
   "lastOpenFiles": [
+    "Unit 1/Digital Devices in IT systems.md",
+    "Unit 1/Pheripheral Devices and media.md",
+    "Unit 1/Digital Cameras.md",
+    "Unit 2/RDMS.md",
     "Unit 3/Social media features.md",
     "2023-09-25.md",
-    "Unit 2/RDMS.md",
     "Unit 3/Social media and its purpose.md",
     "Unit 3/High Peak Autos.md",
     "Unit 9/Project management cycle.canvas",
     "Unit 9/Project management.md",
-    "Unit 1/Digital Devices in IT systems.md",
     "Unit 4/Software application.md",
     "Unit 4/Computational Thinking.md",
-    "Unit 1/Digital Cameras.md",
     "agaejgkeaghaehgaehjikghaekhgaehgkhae.md",
     "Unit 9",
     "Unit 4/Decomposition.png",

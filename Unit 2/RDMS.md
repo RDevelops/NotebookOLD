@@ -1,4 +1,4 @@
-## Definition:
+# Definition:
 A database used to keep information in tables, which are joined into datasets.
 # Terminology
 | Term | Defenition |

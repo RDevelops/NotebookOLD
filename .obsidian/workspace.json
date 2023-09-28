@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c52aad130b08723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 3/assignment stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c89e807b15a1db6",
+  "active": "6c52aad130b08723",
   "lastOpenFiles": [
-    "Unit 1/Digital Cameras.md",
+    "Unit 3/Social media features.md",
+    "Unit 3/Social media and its purpose.md",
+    "Unit 3/High Peak Autos.md",
     "Unit 3/assignment stuff.md",
+    "Unit 1/Digital Cameras.md",
     "Unit 1/Pheripheral Devices and media.md",
     "Unit 1/Digital Devices in IT systems.md",
     "Unit 2/RDMS.md",
-    "Unit 3/Social media features.md",
     "2023-09-25.md",
-    "Unit 3/Social media and its purpose.md",
-    "Unit 3/High Peak Autos.md",
     "Unit 9/Project management cycle.canvas",
     "Unit 9/Project management.md",
     "Unit 4/Software application.md",

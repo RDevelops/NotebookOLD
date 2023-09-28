@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Pheripheral Devices and media.md",
+                "file": "Unit 1/Digital Cameras.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Pheripheral Devices and media.md",
+                "file": "Unit 1/Digital Cameras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Pheripheral Devices and media.md",
+                "file": "Unit 1/Digital Cameras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Pheripheral Devices and media.md"
+                "file": "Unit 1/Digital Cameras.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "7c89e807b15a1db6",
   "lastOpenFiles": [
-    "Unit 1/Digital Devices in IT systems.md",
     "Unit 1/Pheripheral Devices and media.md",
+    "Unit 1/Digital Devices in IT systems.md",
     "Unit 1/Digital Cameras.md",
     "Unit 2/RDMS.md",
     "Unit 3/Social media features.md",

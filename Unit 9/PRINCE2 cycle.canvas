@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"c8f58f045470ae37","type":"text","text":"Directing","x":20,"y":-48,"width":250,"height":60},
+		{"id":"7267bf7295da60cc","type":"text","text":"Starting up ","x":-230,"y":-160,"width":250,"height":60},
+		{"id":"e4c009f9eda9477b","type":"text","text":"Closing\n","x":-500,"y":-48,"width":250,"height":60},
+		{"id":"57da6d641fcbc5f3","type":"text","text":"Stage boundary\n","x":-680,"y":60,"width":250,"height":60},
+		{"id":"d66f6ab2813b1f69","type":"text","text":"Managing Product Delivery","x":-250,"y":60,"width":250,"height":60},
+		{"id":"773bcd7184bd3a96","type":"text","text":"Initiating","x":180,"y":60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c0c969d7c030e52e","fromNode":"7267bf7295da60cc","fromSide":"right","toNode":"c8f58f045470ae37","toSide":"top"},
+		{"id":"4f27eb77890291f4","fromNode":"d66f6ab2813b1f69","fromSide":"left","toNode":"57da6d641fcbc5f3","toSide":"right"},
+		{"id":"4816d82fee6bbd2c","fromNode":"e4c009f9eda9477b","fromSide":"top","toNode":"7267bf7295da60cc","toSide":"left"},
+		{"id":"c59ca5d7b92ab7cd","fromNode":"773bcd7184bd3a96","fromSide":"left","toNode":"d66f6ab2813b1f69","toSide":"right"},
+		{"id":"d4029457abc2c472","fromNode":"c8f58f045470ae37","fromSide":"right","toNode":"773bcd7184bd3a96","toSide":"top"},
+		{"id":"73f64cea2ce79881","fromNode":"57da6d641fcbc5f3","fromSide":"top","toNode":"e4c009f9eda9477b","toSide":"left"}
+	]
+}

@@ -39,26 +39,19 @@
 ## P2:
 ### FACEBOOK DEMOGRAPHICS
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
-
 ### TIKTOK DEMOGRAPHICS
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
-
 ### INSTAGRAM DEMOGRAPHICS 
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
-
 ### TWITTER DEMOGRAPHICS
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
-
 ## P1:
 ### SEO
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20features)
-
 ### SEO EXAMPLES
-
 
 ### GENERAL USES
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20features)
-
 ### FACEBOOK USES
 - [ ] GET FACEBOOK USES
 ### TIKTOK USES

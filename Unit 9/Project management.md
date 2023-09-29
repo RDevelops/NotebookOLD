@@ -1,10 +1,11 @@
-# Terminology
+ # Terminology
 | Term | Defenition | Example |
 | --- | --- | --- |
 | Project | An endeavour to create a new product, service or result | Creating a website |
 | Constraint | Something which effects the ability to finish a project | Lack of funds
 | Project objective | What you plan to achieve by the end of your project | 15% increase of annual revenue
 | Project Scope | something that a project needs | Electrical wiring in a house |
+| Methodology | Approach of the cycle |
 
 ## Examples of projects
 - Developing a game
@@ -93,3 +94,54 @@ Information:
 | Simple | Can be too basic
 | Visual | Not enough information may be provided when you need to know more |
 | Helps organisation | People work in different ways, it may mean that members of the team are less organised |
+
+# Methodology
+Methodology in a project management referes to a systematic and structured a ppraoch that guides the planning,
+
+# different methodologies
+## waterfall
+https://www.projectmanager.com/blog/project-management-methodology
+## PRINCE2
+### stages of prince2
+![[PRINCE2 cycle.canvas]]
+#### Starting Up
+- Gather basic information and decide weather to start ahead
+- Appointing staff
+- Identify stakeholders
+- Prepare project brief
+#### Direction
+- make sure the project goes in the right direction
+- Review the project brief
+- Establish strategies
+- Setup project controls
+- Make critical decisions
+#### Initiation
+- Setting up the project properly, and start up
+- Create PID (Project Initiation Documentation)
+- Define roles
+- Obtain auth to proceed
+#### Managing product delivery
+- Making sure things get done and on time
+- Monitor progress and quality
+- Manage issues and changes
+- Report on progress
+- Ensure quality
+#### Stage boundary
+- Pause the project before moving to the next phase
+- Review stages performance
+- Make a stage plan
+- Update documents
+- Get approval for the next stage
+#### Closing
+- Finishing a project neatly
+- Evaluate project performance
+- writeup things learnt
+- Prepare closure report
+- Disband team`
+
+### Pros and cons of PRINCE2
+| Pros | Cons |
+| -- | -- |
+| Widely known and accepted | May not be affective for more complex projects |
+| Basedupon known products | Can lead to confusion and inefficiency |
+| Can be used with the agile | Hard to adopt |

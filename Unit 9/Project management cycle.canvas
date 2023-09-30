@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"df89cb51730b89cf","type":"text","text":"Project Initiation","x":-440,"y":-20,"width":250,"height":60,"color":"4"},
-		{"id":"ddf3cc0118ea1687","type":"text","text":"Project planning","x":0,"y":-140,"width":250,"height":60,"color":"5"},
-		{"id":"dc8c429715fbfa82","type":"text","text":"Project Execution","x":-40,"y":10,"width":250,"height":60,"color":"2"},
-		{"id":"58a6342d0f6fa3f2","type":"text","text":"Project Monitoring and control","x":-360,"y":200,"width":250,"height":60,"color":"6"},
-		{"id":"b8a1ebbff7bd1c29","type":"text","text":"Project closure","x":-700,"y":100,"width":250,"height":60,"color":"1"}
+		{"id":"df89cb51730b89cf","type":"text","text":"Project Initiation","x":-450,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"ddf3cc0118ea1687","type":"text","text":"Project planning","x":-130,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"58a6342d0f6fa3f2","type":"text","text":"Project Monitoring and control","x":-325,"y":140,"width":250,"height":60,"color":"6"},
+		{"id":"b8a1ebbff7bd1c29","type":"text","text":"Project closure","x":-600,"y":220,"width":250,"height":60,"color":"1"},
+		{"id":"dc8c429715fbfa82","type":"text","text":"Project Execution","x":-130,"y":40,"width":250,"height":50,"color":"2"}
 	],
 	"edges":[
-		{"id":"851ac79f1bbacedf","fromNode":"df89cb51730b89cf","fromSide":"right","toNode":"ddf3cc0118ea1687","toSide":"left"},
-		{"id":"343ff4b848ba55ef","fromNode":"dc8c429715fbfa82","fromSide":"left","toNode":"58a6342d0f6fa3f2","toSide":"top"},
-		{"id":"ad11676de7b912c6","fromNode":"58a6342d0f6fa3f2","fromSide":"left","toNode":"b8a1ebbff7bd1c29","toSide":"bottom"},
-		{"id":"b96363a96f36a626","fromNode":"ddf3cc0118ea1687","fromSide":"right","toNode":"dc8c429715fbfa82","toSide":"right"},
-		{"id":"8eb74cd7993c425f","fromNode":"b8a1ebbff7bd1c29","fromSide":"top","toNode":"df89cb51730b89cf","toSide":"left"}
+		{"id":"2e512abd01215742","fromNode":"dc8c429715fbfa82","fromSide":"left","toNode":"58a6342d0f6fa3f2","toSide":"top"},
+		{"id":"1b204ff3ca6f6d29","fromNode":"58a6342d0f6fa3f2","fromSide":"bottom","toNode":"b8a1ebbff7bd1c29","toSide":"right"},
+		{"id":"2c058d3c0781fa3d","fromNode":"df89cb51730b89cf","fromSide":"right","toNode":"ddf3cc0118ea1687","toSide":"top"},
+		{"id":"80f4d94c1b74d7f6","fromNode":"ddf3cc0118ea1687","fromSide":"bottom","toNode":"dc8c429715fbfa82","toSide":"top"},
+		{"id":"03d8e077edc52f69","fromNode":"b8a1ebbff7bd1c29","fromSide":"left","toNode":"df89cb51730b89cf","toSide":"left"}
 	]
 }

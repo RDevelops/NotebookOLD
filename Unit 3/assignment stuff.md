@@ -1,7 +1,6 @@
 - [ ] gather stats
 - [ ] gather info
 - [ ] get accurate data
-- [ ] choose 3 sites to focus
 - [ ] get references and examples on each site
 - [ ] get info on keywords
 - [ ] example businesses
@@ -36,7 +35,7 @@
 
 
 # MARK ORDER
-## P2:
+## P2 (Explain the audience profiles of different social media websites.):
 ### FACEBOOK DEMOGRAPHICS
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
 ### TIKTOK DEMOGRAPHICS
@@ -45,7 +44,7 @@
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
 ### TWITTER DEMOGRAPHICS
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20and%20its%20purpose)
-## P1:
+## P1 (Explain the different ways in which a business can use social media.):
 ### SEO
 [INFO](obsidian://open?vault=Obsidian%20Vault&file=Unit%203%2FSocial%20media%20features)
 ### SEO EXAMPLES
@@ -65,3 +64,25 @@
 ### Different types of media in posts
 
 ### Different genres of posts
+
+### Paid ads
+### Formatting of posts
+### Good/bad posts examples formatting
+
+### Good/bad posts examples types/uses
+
+## M1 (Assess the different ways in which a business can use social media to attract a target audience.):
+### What are target audiences
+### How to find target audience (per social media)
+
+### How to capture target audience (paid ads)
+### how to capture target audience (organic)
+### how to keep target audience (per social media)
+
+## D1 (Evaluate the business use of social media to interact with customers and promote products or services to a target audience.):
+
+### How to talk to your customers (examples)
+
+### How to interact with your target audience (continued from above)
+### How to give support to your customers (examples)
+### How to make effective ads (examples)

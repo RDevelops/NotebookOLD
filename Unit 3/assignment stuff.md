@@ -71,7 +71,7 @@
 
 ### Good/bad posts examples types/uses
 
-## M1 (Assess the different ways in which a business can use social media to attract a target audience.):
+## M1 (Assess the different ways in which a business can use social media to att[r]()act a target audience.):
 ### What are target audiences
 ### How to find target audience (per social media)
 
@@ -85,4 +85,104 @@
 
 ### How to interact with your target audience (continued from above)
 ### How to give support to your customers (examples)
-### How to make effective ads (examples)
+### How to make effective ads (per social media)
+
+# Slideshow order
+## Introduction -- DONE
+### Introduction
+### Outline
+### General social media information
+### General charts
+
+## SEO -- DONE 
+### What is SEO
+### Benefits of SEO
+### SEO Examples
+ 
+## Interacting with customers and target audience -- DONE
+
+### General rules
+### Giving support to customers
+### Good and bad customer interaction
+
+## Growth
+### Paid ads
+### Organic Growth
+### Influencer marketing
+ - 2ND OCTOBER
+## Posts
+### Overall formatting of posts
+
+### Types of posts
+### Different humor etc in posts
+### Bad posts (overall)
+ - 3RD OCTOBER
+## Facebook
+### Explanation
+### Demographics
+### Types of posts
+### Genres of posts
+### How to make effective ads
+### Paid ads
+### Keywords
+### Following people/liking people
+### Interacting with other companies
+### @ing people
+### Good/bad posts
+### How to find target audience
+### How to capture target audience (paid ads/organic)
+### How to keep target audience
+
+ - 4TH OCTOBER
+## TikTok
+### Explanation
+### Demographics
+### Types of posts
+### Genres of posts
+### How to make effective ads
+### Paid ads
+### Following people
+### Hashtags
+### Interacting with other companies 
+### Good/bad posts
+### How to find target audience
+### How to capture target audience (paid ads/organic)
+### How to keep target audience
+ - 5TH OCTOBER
+## Twitter
+### Explanation
+### Demographics
+### Types of posts
+### Genres of posts
+### How to make effective ads
+### Paid ads
+### Following people
+### Hashtags
+### Mentions
+### Trending
+### Good/bad posts
+### How to find target audience
+### How to capture target audience (paid ads/organic)
+### How to keep target audience
+- 6TH OCTOBER
+## Instagram
+### Explanation
+### Demographics
+### Types of posts
+### Genres of posts
+### How to make effective ads
+### Paid ads
+### Following people
+
+### Good/bad posts
+### How to find target audience
+### How to capture target audience (paid ads/organic)
+### How to keep target audience
+ - 7TH OCTOBER
+## Conclusion
+### Examples of good/bad stuff
+### sources
+### a
+
+
+ - 8TH OCTOBER

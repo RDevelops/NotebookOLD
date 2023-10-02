@@ -104,19 +104,19 @@
 ### General rules
 ### Giving support to customers
 ### Good and bad customer interaction
-
+---
 ## Growth
 ### Paid ads
 ### Organic Growth
 ### Influencer marketing
- - 2ND OCTOBER
 ## Posts
 ### Overall formatting of posts
 
 ### Types of posts
 ### Different humor etc in posts
 ### Bad posts (overall)
- - 3RD OCTOBER
+
+--- 
 ## Facebook
 ### Explanation
 ### Demographics

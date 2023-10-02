@@ -104,8 +104,8 @@
 ### General rules
 ### Giving support to customers
 ### Good and bad customer interaction
----
-## Growth
+
+## Growth -- DONE
 ### Paid ads
 ### Organic Growth
 ### Influencer marketing

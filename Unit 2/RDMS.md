@@ -11,6 +11,7 @@ A database used to keep information in tables, which are joined into datasets.
 | Cardinality | The uniqueness of an atribute, Repeated values would have a "Low cardinality" where as non-repeated values would have Cardinality
 | Structured Query Language (SQL) | A programming language for sorting and storing data | 
 | Entity relation | Link between two tables |
+| Normalisation | 
 # Types of RDMS/RDBMS
 | | Desktop | Server |
 |--------|  --------- |---------|
@@ -231,3 +232,59 @@ Will update the table to look like this:
 | 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
 | 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
 | 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |
+
+## Append
+Allows you to append records from one table to another after running a SELECT query
+
+
+# Normalisation
+## What is it?
+When considering a real life situation that you want to put into a relational database, it may be difficult to find a way to put the data into different tables in the most efficient way.
+For this reason, the process of normalisation was developed to help database engineers make designs to avoid duplicated data, which will help to minimise storage requirements and help to avoid problems that occur with duplicated data.
+For example, if a postcode is help on a database in 2 tables, then the customer moves house and their postcode changes, it should update in both tables.
+
+## The process
+The process of normalisation is an important part of the databased design process. The outcome of this process will be a verified database design which identifies the main structure of the database; including:
+- The tables that the database will be split into
+- The indexes used, including the primary, foreign and any composite keys required for the tables.
+- The structure of the individual tables from which the data dictionary can be created.
+
+## Stages of normalisation
+Normalisation is a 3 stage process, which begins with raw data. This is something you may extract from a paper based system
+### UNF (Un-Normalised Form)
+This is before normalisation happens, and this is the un-normalised, raw data.
+### 1NF (1st Normal Form)
+This is the first stage, which takes the raw data and modifies its structure to meet the requirements of 1NF
+### 2NF (2nd Normal Form)
+The second stage modifies the 1NF structure to meet the requirements of 2NF
+### 3NF (3rd Normal Form)
+The third stage takes the 2NF data structure and modifies it to meet the requirements of 3NF
+
+## Example
+![[Pasted image 20231002093524.png]]
+### 1NF
+From the raw invoice above, you only need a select ammount of data:
+- Order number
+- Customer name
+- Customer address
+- Product ID
+- Product Description
+- Price
+- Quantity
+
+We don't need the calculated date (total) as databases are not for making calculations.
+
+You need to make sure that each item is atomic (as small as it can be). For example, The customer name can be split into ('FName', 'SName')
+You also need to remove repeating groups, so taht there is a data item for every record of each atrribute. For example, in the paper-based order form, order number and customer number occur just once but we need to include them in each record of our 1NF table.
+Finally, we need to select a primary key (which needs to be unique). There is no one value that is unique but you can create a composite key using the Order Number and Product ID.
+
+### 2NF
+The second stage of normalisation is to modify the data to meet 2NF. if the table already has a primary key based on a single attribute, then nothing needs to be done. However if we have a  composite key we need to remove data that is dependant on just one part of the composite key to a different table.
+We can remove the following;
+- Product Description
+- Product Price
+Into their own table, with Product ID in both tables as a foreign key.
+
+### 3NF
+The final stage in normalisation is to modify the data to meet the requirements of 3NF. This requirement is that none of the non primary key attributes should depend on any other attributes. If they do, then they can be moved, leaving an attribute as a foreign key.
+We can move the customer names, as they are dependant on the customer number.

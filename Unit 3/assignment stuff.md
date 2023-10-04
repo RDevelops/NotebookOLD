@@ -104,6 +104,7 @@
 ### General rules
 ### Giving support to customers
 ### Good and bad customer interaction
+<<<<<<< Updated upstream
 ---
 ## Growth
 ### Paid ads
@@ -118,6 +119,19 @@
 
 --- 
 ## Facebook
+=======
+
+## Growth -- DONE
+### Paid ads
+### Organic Growth
+### Influencer marketing
+## Posts -- DONE
+### Overall formatting of posts merged wih below
+### Types of posts -- merged with above
+### Different humor etc in posts -- not doing
+### Bad posts (overall) -- not doing
+## Facebook -- OCT 4
+>>>>>>> Stashed changes
 ### Explanation
 ### Demographics
 ### Types of posts
@@ -133,8 +147,8 @@
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
 
- - 4TH OCTOBER
-## TikTok
+
+## TikTok -- OCT 5
 ### Explanation
 ### Demographics
 ### Types of posts
@@ -149,7 +163,7 @@
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
  - 5TH OCTOBER
-## Twitter
+## Twitter -- OCT 6
 ### Explanation
 ### Demographics
 ### Types of posts
@@ -165,21 +179,7 @@
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
 - 6TH OCTOBER
-## Instagram
-### Explanation
-### Demographics
-### Types of posts
-### Genres of posts
-### How to make effective ads
-### Paid ads
-### Following people
-
-### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
-### How to keep target audience
- - 7TH OCTOBER
-## Conclusion
+## Conclusion -- OCT 7
 ### Examples of good/bad stuff
 ### sources
 ### a

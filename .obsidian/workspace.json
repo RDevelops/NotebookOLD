@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "61eefc4b227c0622",
         "type": "tabs",
         "children": [
           {
             "id": "c9bcc1e565d2f4b0",
+=======
+        "id": "1dcdc86daca6b8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d65afdb25d62bc2",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unit 2/RDMS.md",
+=======
+                "file": "Unit 3/Social media features.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unit 2/RDMS.md",
+=======
+                "file": "Unit 3/Social media features.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unit 2/RDMS.md",
+=======
+                "file": "Unit 3/Social media features.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unit 2/RDMS.md"
+=======
+                "file": "Unit 3/Social media features.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -156,12 +180,18 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "c9bcc1e565d2f4b0",
   "lastOpenFiles": [
     "Unit 2/Pasted image 20231002093524.png",
+=======
+  "active": "7d65afdb25d62bc2",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Unit 3/assignment stuff.md",
     "Unit 3/Social media and its purpose.md",
     "Unit 3/Social media features.md",
+    "Unit 3/Social media and its purpose.md",
     "Unit 3/High Peak Autos.md",
     "Unit 3/Social media insights.png",
     "Unit 9/PRINCE2 cycle.canvas",

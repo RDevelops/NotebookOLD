@@ -106,21 +106,6 @@
 ### Good and bad customer interaction
 <<<<<<< Updated upstream
 ---
-## Growth
-### Paid ads
-### Organic Growth
-### Influencer marketing
-## Posts
-### Overall formatting of posts
-
-### Types of posts
-### Different humor etc in posts
-### Bad posts (overall)
-
---- 
-## Facebook
-=======
-
 ## Growth -- DONE
 ### Paid ads
 ### Organic Growth
@@ -130,8 +115,7 @@
 ### Types of posts -- merged with above
 ### Different humor etc in posts -- not doing
 ### Bad posts (overall) -- not doing
-## Facebook -- OCT 4
->>>>>>> Stashed changes
+## Facebook -- OCT 4TH
 ### Explanation
 ### Demographics
 ### Types of posts

@@ -104,7 +104,7 @@
 ### General rules
 ### Giving support to customers
 ### Good and bad customer interaction
-<<<<<<< Updated upstream
+
 ---
 ## Growth -- DONE
 ### Paid ads
@@ -130,7 +130,6 @@
 ### How to find target audience
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
-
 
 ## TikTok -- OCT 5
 ### Explanation

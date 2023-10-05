@@ -118,15 +118,11 @@
 ## Facebook -- OCT 4TH
 ### Explanation
 ### Demographics
-### How to make effective ads
-### Paid ads
+### How to make effective ads/paid ads
 ### Keywords
-### Following people/liking people
-### Interacting with other companies
-### @ing people
+### Interacting with other people and companies
 ### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
+### How to find and capture target audience 
 ### How to keep target audience
 
 ## TikTok -- OCT 5

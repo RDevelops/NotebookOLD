@@ -118,8 +118,6 @@
 ## Facebook -- OCT 4TH
 ### Explanation
 ### Demographics
-### Types of posts
-### Genres of posts
 ### How to make effective ads
 ### Paid ads
 ### Keywords

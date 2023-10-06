@@ -109,32 +109,20 @@
 ### Paid ads
 ### Organic Growth
 ### Influencer marketing
-## Posts
-### Overall formatting of posts
-
-### Types of posts
-### Different humor etc in posts
-### Bad posts (overall)
-
---- 
-## Facebook
+## Posts -- DONE
+### Overall formatting of posts merged wih below
+### Types of posts -- merged with above
+## Facebook -- OCT 4TH
 ### Explanation
 ### Demographics
-### Types of posts
-### Genres of posts
-### How to make effective ads
-### Paid ads
+### How to make effective ads/paid ads
 ### Keywords
-### Following people/liking people
-### Interacting with other companies
-### @ing people
+### Interacting with other people and companies
 ### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
+### How to find and capture target audience 
 ### How to keep target audience
 
- - 4TH OCTOBER
-## TikTok
+## TikTok -- OCT 5
 ### Explanation
 ### Demographics
 ### Types of posts
@@ -149,7 +137,7 @@
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
  - 5TH OCTOBER
-## Twitter
+## Twitter -- OCT 6
 ### Explanation
 ### Demographics
 ### Types of posts
@@ -165,21 +153,7 @@
 ### How to capture target audience (paid ads/organic)
 ### How to keep target audience
 - 6TH OCTOBER
-## Instagram
-### Explanation
-### Demographics
-### Types of posts
-### Genres of posts
-### How to make effective ads
-### Paid ads
-### Following people
-
-### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
-### How to keep target audience
- - 7TH OCTOBER
-## Conclusion
+## Conclusion -- OCT 7
 ### Examples of good/bad stuff
 ### sources
 ### a

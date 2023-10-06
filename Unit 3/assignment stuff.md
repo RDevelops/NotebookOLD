@@ -105,7 +105,6 @@
 ### Giving support to customers
 ### Good and bad customer interaction
 
----
 ## Growth -- DONE
 ### Paid ads
 ### Organic Growth
@@ -113,8 +112,6 @@
 ## Posts -- DONE
 ### Overall formatting of posts merged wih below
 ### Types of posts -- merged with above
-### Different humor etc in posts -- not doing
-### Bad posts (overall) -- not doing
 ## Facebook -- OCT 4TH
 ### Explanation
 ### Demographics

@@ -97,10 +97,35 @@ Information:
 
 # Methodology
 Methodology in a project management referes to a systematic and structured a ppraoch that guides the planning,
-
+|
 # different methodologies
 ## waterfall
 https://www.projectmanager.com/blog/project-management-methodology
+
+| Pros | Cons |
+| -- | --|
+| Simple | Too simple |
+| Easy | Can not handle complex projects |
+| Helps you finish each step to ensure completion | Hard to see progress |
+### Stages
+
+#### Requirements
+- Gather all customer requirements 
+- allow the project to be required witout frther ustomer info
+#### design
+- logical and physical design
+- possible solutions
+- make into concerete specifications
+
+#### implementation
+- gather requirements and specification from previous phases
+- do stuff
+#### verification
+- customer review product
+- release to customer
+#### maintenence
+- customer using product
+- bugs discovered and fixed till customr satisfaction
 ## PRINCE2
 ### stages of prince2
 ![[PRINCE2 cycle.canvas]]

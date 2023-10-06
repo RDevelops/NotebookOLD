@@ -112,7 +112,7 @@
 ## Posts -- DONE
 ### Overall formatting of posts merged wih below
 ### Types of posts -- merged with above
-## Facebook -- OCT 4TH
+## Facebook -- Carried over to OCT 5
 ### Explanation
 ### Demographics
 ### How to make effective ads/paid ads

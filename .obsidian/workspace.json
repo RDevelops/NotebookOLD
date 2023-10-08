@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
+                "file": "Unit 3/Social media features.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
+                "file": "Unit 3/Social media features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md",
+                "file": "Unit 3/Social media features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Social media and its purpose.md"
+                "file": "Unit 3/Social media features.md"
               }
             }
           },
@@ -139,11 +139,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cfb6ed075ec732",
+  "active": "c9bcc1e565d2f4b0",
   "lastOpenFiles": [
+    "Unit 3/Social media and its purpose.md",
     "Unit 3/assignment stuff.md",
+    "Untitled.canvas",
+    "Unit 3/Social media features.md",
     "Unit 4/Computational Thinking.md",
     "Unit 9/Project management.md",
     "Unit 9/PRINCE2 cycle.canvas",
@@ -165,8 +170,6 @@
     "Unit 2/Pasted image 20231002093524.png",
     "Unit 1/User interface.md",
     "Unit 2/RDMS.md",
-    "Unit 3/Social media and its purpose.md",
-    "Unit 3/Social media features.md",
     "Unit 3/High Peak Autos.md",
     "Unit 3/Social media insights.png",
     "Unit 9/Project management cycle.canvas",

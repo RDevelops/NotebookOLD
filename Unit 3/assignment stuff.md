@@ -122,7 +122,7 @@
 ### How to find and capture target audience 
 ### How to keep target audience
 
-## TikTok -- OCT 7
+## TikTok -- DONE
 ### Explanation
 ### Demographics
 ### How to make effective ads
@@ -131,7 +131,7 @@
 ### Good/bad posts
 ### How to find/capture target audience
 ### How to keep target audience
-## Twitter -- OCT 8
+## Twitter -- OCT 7
 ### Explanation
 ### Demographics
 ### How to make effective ads
@@ -143,8 +143,10 @@
 ### How to find/capture target audience (paid ads/organic)
 ### How to keep target audience
 - 6TH OCTOBER
-## Conclusion -- OCT 9
+## Conclusion -- OCT 8
 ### Examples of good/bad stuff
+
+### HOW THESE 3 SOCIAL MEDAIS TOGETHER WILL HELP, WIDE AGE RANGE, ETC 
 ### sources
 ### a
 

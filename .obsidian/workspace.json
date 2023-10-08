@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 9/Project management.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 9/Project management.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 9/Project management.md",
+                "file": "Unit 3/Social media and its purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 9/Project management.md"
+                "file": "Unit 3/Social media and its purpose.md"
               }
             }
           },
@@ -155,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9bcc1e565d2f4b0",
+  "active": "c9cfb6ed075ec732",
   "lastOpenFiles": [
-    "Unit 9/PRINCE2 cycle.canvas",
+    "Unit 3/assignment stuff.md",
+    "Unit 4/Computational Thinking.md",
     "Unit 9/Project management.md",
+    "Unit 9/PRINCE2 cycle.canvas",
     "Unit 4/Programming languages.md",
     "Unit 2/Pasted image 20231002093524.png",
-    "Unit 3/assignment stuff.md",
     "Unit 1/User interface.md",
     "Unit 2/RDMS.md",
     "Unit 3/Social media and its purpose.md",
@@ -171,7 +172,6 @@
     "Unit 9/Project management cycle.canvas",
     "Unit 9/Untitled.md",
     "Unit 4/Software application.md",
-    "Unit 4/Computational Thinking.md",
     "Unit 1/Digital Cameras.md",
     "Unit 1/Pheripheral Devices and media.md",
     "Unit 1/Digital Devices in IT systems.md",

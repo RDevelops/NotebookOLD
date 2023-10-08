@@ -112,7 +112,7 @@
 ## Posts -- DONE
 ### Overall formatting of posts merged wih below
 ### Types of posts -- merged with above
-## Facebook -- Carried over to OCT 5
+## Facebook -- DONE
 ### Explanation
 ### Demographics
 ### How to make effective ads/paid ads
@@ -122,38 +122,28 @@
 ### How to find and capture target audience 
 ### How to keep target audience
 
-## TikTok -- OCT 5
+## TikTok -- OCT 7
 ### Explanation
 ### Demographics
-### Types of posts
-### Genres of posts
 ### How to make effective ads
 ### Paid ads
-### Following people
 ### Hashtags
-### Interacting with other companies 
 ### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
+### How to find/capture target audience
 ### How to keep target audience
- - 5TH OCTOBER
-## Twitter -- OCT 6
+## Twitter -- OCT 8
 ### Explanation
 ### Demographics
-### Types of posts
-### Genres of posts
 ### How to make effective ads
 ### Paid ads
-### Following people
 ### Hashtags
 ### Mentions
 ### Trending
 ### Good/bad posts
-### How to find target audience
-### How to capture target audience (paid ads/organic)
+### How to find/capture target audience (paid ads/organic)
 ### How to keep target audience
 - 6TH OCTOBER
-## Conclusion -- OCT 7
+## Conclusion -- OCT 9
 ### Examples of good/bad stuff
 ### sources
 ### a

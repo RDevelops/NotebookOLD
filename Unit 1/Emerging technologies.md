@@ -57,7 +57,7 @@ Organisational emerging technologies is designed to be used by businesses, to bo
 | Reduce of human error, for example sensors used to monitor temperatures | May require staff training |
 
 
-
+# TODO: FINISH NOTES (SOFTWARE/CHOOSING IT SYSTEM)
 
 
 
@@ -94,9 +94,9 @@ One factor that Benjamin would need to consider is the budget for the system, a 
 Another factor that can decide what system to build is user experience - if Fraser has little experience using a desktop computer, it would be much smarter to get a console for this task but if he has experience with computers it would be beneficial to get a PC.
 
 # task 4
-pros and cons of propeietary vs FOSS
+pros and cons of proprietary vs FOSS
 
 | | Advantage | Disadvantage |
 | --| -- | -- |
 | FOSS | Easy for users to edit and maintain the software | Exploits can be found and used to target users |
-| Propietary | Dedicated team/company | Often expensive |
+| Propietary | Dedicated team/company | Often expensive and you can be restriced |

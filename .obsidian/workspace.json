@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ba9d9ffb229010c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 3/assignment stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Emerging technologies.md",
+                "file": "Unit 3/assignment stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Emerging technologies.md",
+                "file": "Unit 3/assignment stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Emerging technologies.md"
+                "file": "Unit 3/assignment stuff.md"
               }
             }
           },
@@ -157,16 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9bcc1e565d2f4b0",
+  "active": "0ba9d9ffb229010c",
   "lastOpenFiles": [
-    "Unit 1/Digital Devices in IT systems.md",
-    "Unit 1/User interface.md",
-    "Unit 1/Pheripheral Devices and media.md",
-    "Unit 2/RDMS.md",
-    "Unit 4/Software application.md",
     "Unit 1/Emerging technologies.md",
-    "Unit 1/Digital Cameras.md",
     "Unit 3/assignment stuff.md",
+    "Unit 1/Pheripheral Devices and media.md",
+    "Unit 1/User interface.md",
+    "Unit 2/RDMS.md",
+    "Unit 1/Digital Devices in IT systems.md",
+    "Unit 4/Software application.md",
+    "Unit 1/Digital Cameras.md",
     "Unit 3/Social media features.md",
     "Unit 3/Social media and its purpose.md",
     "Untitled.canvas",

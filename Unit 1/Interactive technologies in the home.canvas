@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"2751cd69832e6760","type":"text","text":"Mobile devices","x":-169,"y":60,"width":250,"height":60,"color":"1"},
+		{"id":"4dcf1622099d82e2","type":"text","text":"Bluetooth devices","x":-169,"y":-140,"width":250,"height":60,"color":"3"},
+		{"id":"9cdb364dec7ce9c8","type":"text","text":"Bluetooth printer","x":-440,"y":-140,"width":250,"height":60,"color":"3"},
+		{"id":"3218386af3b0cab7","type":"text","text":"Touchscreen laptop","x":-820,"y":-38,"width":250,"height":60,"color":"2"},
+		{"id":"c6b4cc646ee9f29e","type":"text","text":"Touchscreen appliences","x":-520,"y":-39,"width":250,"height":60,"color":"2"},
+		{"id":"01acccb147f1dee1","type":"text","text":"Smart board","x":-520,"y":60,"width":250,"height":60,"color":"2"},
+		{"id":"fdd7098cd5db305d","type":"text","text":"FreeView","x":460,"y":-38,"width":250,"height":60,"color":"4"},
+		{"id":"87ce29d54b45dace","type":"text","text":"TV on demand","x":160,"y":-38,"width":250,"height":60,"color":"4"},
+		{"id":"42f78c1bb775b520","type":"text","text":"Interactive technologies used in the home","x":-169,"y":-40,"width":250,"height":63},
+		{"id":"df10ef942dcf8b2e","type":"text","text":"tablets/iPads","x":160,"y":60,"width":250,"height":60,"color":"1"},
+		{"id":"a59463977dc5abe8","type":"text","text":"Smart Watch","x":-520,"y":160,"width":250,"height":60,"color":"#ff4d00"},
+		{"id":"8c78c285eb16da79","type":"text","text":"Smartphones","x":-169,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"8894e3bc32d2cb44","type":"text","text":"Bluetooth speaker","x":-169,"y":-240,"width":250,"height":60,"color":"3"},
+		{"id":"7cb73f9cb13f3b0f","type":"text","text":"Bluetooth earbuds","x":-440,"y":-240,"width":250,"height":60,"color":"3"},
+		{"id":"eba9e879f1150049","type":"text","text":"Netflix","x":160,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"b3a0019e05d0e132","type":"text","text":"Amazon firestick","x":440,"y":-140,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"f2a4ebd40c0cbd0f","fromNode":"42f78c1bb775b520","fromSide":"top","toNode":"4dcf1622099d82e2","toSide":"bottom"},
+		{"id":"7da25719e5d0c83a","fromNode":"42f78c1bb775b520","fromSide":"right","toNode":"87ce29d54b45dace","toSide":"left"},
+		{"id":"ee26ae547e98f4e0","fromNode":"42f78c1bb775b520","fromSide":"bottom","toNode":"2751cd69832e6760","toSide":"top"},
+		{"id":"fb4af48b2f2a997b","fromNode":"42f78c1bb775b520","fromSide":"left","toNode":"c6b4cc646ee9f29e","toSide":"right"},
+		{"id":"5550530687cd00b2","fromNode":"c6b4cc646ee9f29e","fromSide":"left","toNode":"3218386af3b0cab7","toSide":"right"},
+		{"id":"ac442c7802402288","fromNode":"87ce29d54b45dace","fromSide":"right","toNode":"fdd7098cd5db305d","toSide":"left"},
+		{"id":"768586d4bc5bc850","fromNode":"2751cd69832e6760","fromSide":"bottom","toNode":"8c78c285eb16da79","toSide":"top"},
+		{"id":"9d40e9f41fbbcb93","fromNode":"2751cd69832e6760","fromSide":"right","toNode":"df10ef942dcf8b2e","toSide":"left"},
+		{"id":"02ca5a8dfcd54859","fromNode":"c6b4cc646ee9f29e","fromSide":"bottom","toNode":"01acccb147f1dee1","toSide":"top"},
+		{"id":"4f81d3d634f56b8c","fromNode":"87ce29d54b45dace","fromSide":"top","toNode":"eba9e879f1150049","toSide":"bottom"},
+		{"id":"a156e7b52cb05c4e","fromNode":"4dcf1622099d82e2","fromSide":"left","toNode":"9cdb364dec7ce9c8","toSide":"right"},
+		{"id":"6f30e556b8725a4d","fromNode":"8c78c285eb16da79","fromSide":"left","toNode":"a59463977dc5abe8","toSide":"right"},
+		{"id":"be7566442d378f6a","fromNode":"c6b4cc646ee9f29e","fromSide":"right","toNode":"8c78c285eb16da79","toSide":"left"},
+		{"id":"a60125ab04744314","fromNode":"c6b4cc646ee9f29e","fromSide":"left","toNode":"a59463977dc5abe8","toSide":"left"},
+		{"id":"bf4f3335eb121f46","fromNode":"4dcf1622099d82e2","fromSide":"top","toNode":"8894e3bc32d2cb44","toSide":"bottom"},
+		{"id":"c6f9f029b858a2bb","fromNode":"8894e3bc32d2cb44","fromSide":"left","toNode":"7cb73f9cb13f3b0f","toSide":"right"},
+		{"id":"982506efc3095139","fromNode":"eba9e879f1150049","fromSide":"right","toNode":"b3a0019e05d0e132","toSide":"left"}
+	]
+}

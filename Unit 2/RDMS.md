@@ -288,3 +288,36 @@ Into their own table, with Product ID in both tables as a foreign key.
 ### 3NF
 The final stage in normalisation is to modify the data to meet the requirements of 3NF. This requirement is that none of the non primary key attributes should depend on any other attributes. If they do, then they can be moved, leaving an attribute as a foreign key.
 We can move the customer names, as they are dependant on the customer number.
+# Anomalies
+(TABLE FROM LAST LESSON!!!)
+## Insert anomalies
+To insert a new order into a database, the customers name needs to be entered, even if the customer has already placed an order. This allows for errors or inconsistencies
+Another possible source of anomalies so that customers may need to enter their address for each order. With the 3NF version of the database, where toe customer details  would be in the Customer table. This means that only the Customer Number will need to show in the orders table.
+Anoter issues is registering new customers, as you will eed a product ID as it is part of the composite key. That means you cannot put a null value in the Product ID attribute, and therefore its impossible to make an account without an order.
+
+## Delete anomolies
+If a customer cancels their order, then the order will be deleted. However, since that order has been deleted, you are now missing the product ID and order numbers, which are the main parts of the composite key. That means that the existance of this customer is gone.
+
+## Update anomolies
+If a customer changes their address, it will be changed on every order, this is incorrect infromation. This is avoided in 3NF as the customer details are seperate.
+Another issue with the 1NF version of this database is thata product can only be in the database if it has been ordered.
+## Referential integrity
+One issue that occurs with a relational database system is dealing with linked records when deleting/updating a record at one end of a one2many relationship.
+Consider the customer and orders relationship, one custome can place many orders and the link is made by placing the customer table's primary key attribute as a foreign key in the order tabe.
+However, if a customer closes his account, there will be an order table with orders that have no customer information. These will be considered lost orders and may cause problems.
+## How 2 fix
+- use cascading updates where deleting records on customer table would delete records on order table automatically. microsoft access and sql server ave an option to do this, which is known as refferential integrity.
+
+## Task
+You don't want to delete all customer orders, because if there is a fraud risk there may be issues if you delete customer orders.
+Some alternatives is deleting the customer account but not the orders.
+You can hold order information
+
+## Referential integrity and cascading update/delete
+If you allow updates to a primary key, then anything linked to it is lost.
+If you have an employee where toe primary key is the NI number, and the appraisals table has the NI number as the foreign key, but the NI number was incorrect, you would update it but then all of the appraisal records would be lost, as the NI number in the other table is changed.
+
+## Task
+
+Keeping employee NI numbers as a primary key is not a good idea due to possible data mis-entry
+You can use an Employee ID number as the key field instead.

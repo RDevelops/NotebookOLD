@@ -131,7 +131,7 @@
 ### Good/bad posts
 ### How to find/capture target audience
 ### How to keep target audience
-## Twitter -- OCT 7
+## Twitter -- DONE
 ### Explanation
 ### Demographics
 ### How to make effective ads
@@ -143,7 +143,7 @@
 ### How to find/capture target audience (paid ads/organic)
 ### How to keep target audience
 - 6TH OCTOBER
-## Conclusion -- OCT 8
+## Conclusion -- DONE IG
 ### Examples of good/bad stuff
 
 ### HOW THESE 3 SOCIAL MEDAIS TOGETHER WILL HELP, WIDE AGE RANGE, ETC 

@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Emerging technologies.md",
+                "file": "Unit 3/assignment stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ba9d9ffb229010c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Unit 1/Interactive technologies in the workplace.canvas",
-                "viewState": {
-                  "x": -6,
-                  "y": -2,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Interactive technologies in the workplace.canvas",
+                "file": "Unit 3/assignment stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Interactive technologies in the workplace.canvas",
+                "file": "Unit 3/assignment stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Interactive technologies in the workplace.canvas"
+                "file": "Unit 3/assignment stuff.md"
               }
             }
           },
@@ -173,30 +157,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cfb6ed075ec732",
+  "active": "c9bcc1e565d2f4b0",
   "lastOpenFiles": [
-    "Unit 1/Interactive technologies in the home.canvas",
-    "Unit 1/Interactive technologies in the workplace.canvas",
-    "Pasted image 20231009154212.png",
-    "Unit 3/assignment stuff.md",
-    "Unit 1/Emerging technologies.md",
-    "Unit 1/Pheripheral Devices and media.md",
-    "Unit 1/User interface.md",
     "Unit 2/RDMS.md",
-    "Unit 1/Digital Devices in IT systems.md",
-    "Unit 4/Software application.md",
-    "Unit 1/Digital Cameras.md",
+    "Unit 1/Interactive technologies in the workplace.canvas",
+    "Unit 1/Interactive technologies in the home.canvas",
+    "Unit 1/Emerging technologies.md",
+    "Pasted image 20231009154212.png",
     "Unit 3/Social media features.md",
     "Unit 3/Social media and its purpose.md",
+    "Unit 3/assignment stuff.md",
+    "Untitled.canvas",
     "Unit 4/Computational Thinking.md",
     "Unit 9/Project management.md",
     "Unit 9/PRINCE2 cycle.canvas",
     "Unit 4/Programming languages.md",
     "Unit 2/Pasted image 20231002093524.png",
+    "Unit 1/User interface.md",
     "Unit 3/High Peak Autos.md",
     "Unit 3/Social media insights.png",
     "Unit 9/Project management cycle.canvas",
     "Unit 9/Untitled.md",
+    "Unit 4/Software application.md",
+    "Unit 1/Digital Cameras.md",
+    "Unit 1/Pheripheral Devices and media.md",
+    "Unit 1/Digital Devices in IT systems.md",
     "2023-09-25.md",
     "agaejgkeaghaehgaehjikghaekhgaehgkhae.md",
     "Unit 9",

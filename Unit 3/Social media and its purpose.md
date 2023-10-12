@@ -35,7 +35,7 @@ It is also estimated for these numbers to go up.
 
 ## Instagram
 With 3.8 billion downloads, and 2 billion users worldwide, it is the 4th most popular social media app.
-- 58% of people say they are more interested in a product after seeing it in an instagram story.
+- 58% of people say they are more interested in a product after seeing it in an Instagram story.
 - 50% of people have visited a website to buy a product/service they have seen on Instagram.
 - 90% of users on Instagram follow a business
 - 81% of people use Instagram to research products and services.

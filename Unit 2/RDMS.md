@@ -11,6 +11,7 @@ A database used to keep information in tables, which are joined into datasets.
 | Cardinality | The uniqueness of an atribute, Repeated values would have a "Low cardinality" where as non-repeated values would have Cardinality
 | Structured Query Language (SQL) | A programming language for sorting and storing data | 
 | Entity relation | Link between two tables |
+| Normalisation | 
 # Types of RDMS/RDBMS
 | | Desktop | Server |
 |--------|  --------- |---------|
@@ -231,3 +232,92 @@ Will update the table to look like this:
 | 2 | Dec-2017 | 1200 | 2 | 9643 | Anna |
 | 3 | Dec-2017 | 1700 | 3 | 2389 | Ahmed |
 | 4 | Jan-2018 | 1900 | 4 | 4739 | Tina |
+
+## Append
+Allows you to append records from one table to another after running a SELECT query
+
+
+# Normalisation
+## What is it?
+When considering a real life situation that you want to put into a relational database, it may be difficult to find a way to put the data into different tables in the most efficient way.
+For this reason, the process of normalisation was developed to help database engineers make designs to avoid duplicated data, which will help to minimise storage requirements and help to avoid problems that occur with duplicated data.
+For example, if a postcode is help on a database in 2 tables, then the customer moves house and their postcode changes, it should update in both tables.
+
+## The process
+The process of normalisation is an important part of the databased design process. The outcome of this process will be a verified database design which identifies the main structure of the database; including:
+- The tables that the database will be split into
+- The indexes used, including the primary, foreign and any composite keys required for the tables.
+- The structure of the individual tables from which the data dictionary can be created.
+
+## Stages of normalisation
+Normalisation is a 3 stage process, which begins with raw data. This is something you may extract from a paper based system
+### UNF (Un-Normalised Form)
+This is before normalisation happens, and this is the un-normalised, raw data.
+### 1NF (1st Normal Form)
+This is the first stage, which takes the raw data and modifies its structure to meet the requirements of 1NF
+### 2NF (2nd Normal Form)
+The second stage modifies the 1NF structure to meet the requirements of 2NF
+### 3NF (3rd Normal Form)
+The third stage takes the 2NF data structure and modifies it to meet the requirements of 3NF
+
+## Example
+![[Pasted image 20231002093524.png]]
+### 1NF
+From the raw invoice above, you only need a select ammount of data:
+- Order number
+- Customer name
+- Customer address
+- Product ID
+- Product Description
+- Price
+- Quantity
+
+We don't need the calculated date (total) as databases are not for making calculations.
+
+You need to make sure that each item is atomic (as small as it can be). For example, The customer name can be split into ('FName', 'SName')
+You also need to remove repeating groups, so taht there is a data item for every record of each atrribute. For example, in the paper-based order form, order number and customer number occur just once but we need to include them in each record of our 1NF table.
+Finally, we need to select a primary key (which needs to be unique). There is no one value that is unique but you can create a composite key using the Order Number and Product ID.
+
+### 2NF
+The second stage of normalisation is to modify the data to meet 2NF. if the table already has a primary key based on a single attribute, then nothing needs to be done. However if we have a  composite key we need to remove data that is dependant on just one part of the composite key to a different table.
+We can remove the following;
+- Product Description
+- Product Price
+Into their own table, with Product ID in both tables as a foreign key.
+
+### 3NF
+The final stage in normalisation is to modify the data to meet the requirements of 3NF. This requirement is that none of the non primary key attributes should depend on any other attributes. If they do, then they can be moved, leaving an attribute as a foreign key.
+We can move the customer names, as they are dependant on the customer number.
+# Anomalies
+(TABLE FROM LAST LESSON!!!)
+## Insert anomalies
+To insert a new order into a database, the customers name needs to be entered, even if the customer has already placed an order. This allows for errors or inconsistencies
+Another possible source of anomalies so that customers may need to enter their address for each order. With the 3NF version of the database, where toe customer details  would be in the Customer table. This means that only the Customer Number will need to show in the orders table.
+Anoter issues is registering new customers, as you will eed a product ID as it is part of the composite key. That means you cannot put a null value in the Product ID attribute, and therefore its impossible to make an account without an order.
+
+## Delete anomolies
+If a customer cancels their order, then the order will be deleted. However, since that order has been deleted, you are now missing the product ID and order numbers, which are the main parts of the composite key. That means that the existance of this customer is gone.
+
+## Update anomolies
+If a customer changes their address, it will be changed on every order, this is incorrect infromation. This is avoided in 3NF as the customer details are seperate.
+Another issue with the 1NF version of this database is thata product can only be in the database if it has been ordered.
+## Referential integrity
+One issue that occurs with a relational database system is dealing with linked records when deleting/updating a record at one end of a one2many relationship.
+Consider the customer and orders relationship, one custome can place many orders and the link is made by placing the customer table's primary key attribute as a foreign key in the order tabe.
+However, if a customer closes his account, there will be an order table with orders that have no customer information. These will be considered lost orders and may cause problems.
+## How 2 fix
+- use cascading updates where deleting records on customer table would delete records on order table automatically. microsoft access and sql server ave an option to do this, which is known as refferential integrity.
+
+## Task
+You don't want to delete all customer orders, because if there is a fraud risk there may be issues if you delete customer orders.
+Some alternatives is deleting the customer account but not the orders.
+You can hold order information
+
+## Referential integrity and cascading update/delete
+If you allow updates to a primary key, then anything linked to it is lost.
+If you have an employee where toe primary key is the NI number, and the appraisals table has the NI number as the foreign key, but the NI number was incorrect, you would update it but then all of the appraisal records would be lost, as the NI number in the other table is changed.
+
+## Task
+
+Keeping employee NI numbers as a primary key is not a good idea due to possible data mis-entry
+You can use an Employee ID number as the key field instead.

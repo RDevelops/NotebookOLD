@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"e1e80c5f975c1e96","type":"text","text":"Mobile devices","x":-114,"y":70,"width":250,"height":60,"color":"1"},
+		{"id":"6e0c0ecaa21adda3","type":"text","text":"AI","x":-114,"y":-130,"width":250,"height":60,"color":"3"},
+		{"id":"96ddd1958cecb036","type":"text","text":"Interactive statistics analysis","x":-385,"y":-130,"width":250,"height":60,"color":"3"},
+		{"id":"ec2aff663bf70057","type":"text","text":"Machinery control panels","x":-765,"y":-28,"width":250,"height":61,"color":"2"},
+		{"id":"82acfed1f004a14d","type":"text","text":"Touchscreen appliences","x":-465,"y":-29,"width":250,"height":60,"color":"2"},
+		{"id":"9a60e187cd70a4c3","type":"text","text":"Smart board","x":-465,"y":70,"width":250,"height":60,"color":"2"},
+		{"id":"54a9a0297e2e2cfa","type":"text","text":"Communication","x":215,"y":-28,"width":250,"height":60,"color":"4"},
+		{"id":"df293496fb9508eb","type":"text","text":"Interactive technologies used in the workplace","x":-114,"y":-30,"width":250,"height":63},
+		{"id":"5abb703d967b4635","type":"text","text":"EPOS scanners","x":215,"y":70,"width":250,"height":60,"color":"1"},
+		{"id":"75c753970af28a8d","type":"text","text":"Automated scanners","x":-465,"y":170,"width":250,"height":60,"color":"1"},
+		{"id":"bd2d3872492c9d6c","type":"text","text":"Stock control devices","x":-114,"y":170,"width":250,"height":60,"color":"1"},
+		{"id":"23301248e8423a1b","type":"text","text":"robotic machinery","x":-114,"y":-230,"width":250,"height":60,"color":"3"},
+		{"id":"e602148f39bbaff2","type":"text","text":"Automating processes","x":-385,"y":-230,"width":250,"height":60,"color":"3"},
+		{"id":"b60d6c24cea23959","type":"text","text":"Teams","x":215,"y":-130,"width":250,"height":60,"color":"4"},
+		{"id":"c3937e83c182ecc6","type":"text","text":"Zoom","x":495,"y":-130,"width":250,"height":60,"color":"4"},
+		{"id":"96eaebc4a7c28270","type":"text","text":"WiFi","x":495,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"adaf1ff848f7d3be","type":"text","text":"Machinery diagnostics","x":-765,"y":70,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"cba3577b3a4a2cf3","fromNode":"e1e80c5f975c1e96","fromSide":"bottom","toNode":"bd2d3872492c9d6c","toSide":"top"},
+		{"id":"91bca6812ba9fe55","fromNode":"e1e80c5f975c1e96","fromSide":"right","toNode":"5abb703d967b4635","toSide":"left"},
+		{"id":"8d6f3ec67885634b","fromNode":"df293496fb9508eb","fromSide":"bottom","toNode":"e1e80c5f975c1e96","toSide":"top"},
+		{"id":"8aa4f13c67906f46","fromNode":"6e0c0ecaa21adda3","fromSide":"left","toNode":"96ddd1958cecb036","toSide":"right"},
+		{"id":"6f91d9e32083459e","fromNode":"6e0c0ecaa21adda3","fromSide":"top","toNode":"23301248e8423a1b","toSide":"bottom"},
+		{"id":"37d9813c531510b5","fromNode":"df293496fb9508eb","fromSide":"top","toNode":"6e0c0ecaa21adda3","toSide":"bottom"},
+		{"id":"20695d9fd155a0ee","fromNode":"82acfed1f004a14d","fromSide":"left","toNode":"ec2aff663bf70057","toSide":"right"},
+		{"id":"850d696b44c11603","fromNode":"82acfed1f004a14d","fromSide":"bottom","toNode":"9a60e187cd70a4c3","toSide":"top"},
+		{"id":"f054a52ede5ec8e7","fromNode":"df293496fb9508eb","fromSide":"left","toNode":"82acfed1f004a14d","toSide":"right"},
+		{"id":"ec5dc9dc80b5b42c","fromNode":"54a9a0297e2e2cfa","fromSide":"right","toNode":"96eaebc4a7c28270","toSide":"left"},
+		{"id":"429d0eb4ae8be0e7","fromNode":"54a9a0297e2e2cfa","fromSide":"top","toNode":"b60d6c24cea23959","toSide":"bottom"},
+		{"id":"c0ce2aab0e8036fd","fromNode":"df293496fb9508eb","fromSide":"right","toNode":"54a9a0297e2e2cfa","toSide":"left"},
+		{"id":"dfd1e39a0f20ffaa","fromNode":"bd2d3872492c9d6c","fromSide":"left","toNode":"75c753970af28a8d","toSide":"right"},
+		{"id":"910fc71a4aae5e9c","fromNode":"23301248e8423a1b","fromSide":"left","toNode":"e602148f39bbaff2","toSide":"right"},
+		{"id":"8701f9ee22ab3fc2","fromNode":"b60d6c24cea23959","fromSide":"right","toNode":"c3937e83c182ecc6","toSide":"left"},
+		{"id":"d80e8b574639ac9a","fromNode":"9a60e187cd70a4c3","fromSide":"left","toNode":"adaf1ff848f7d3be","toSide":"right"},
+		{"id":"b0231b9f4b9d4696","fromNode":"ec2aff663bf70057","fromSide":"bottom","toNode":"adaf1ff848f7d3be","toSide":"top"}
+	]
+}

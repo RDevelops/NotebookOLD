@@ -115,3 +115,70 @@ Stores a value in an identifier (var or constant)
 
 ## Logical operations
 and, or, etc
+
+# constructs and their implementation
+## Subroutines , functions and procedures
+Subroutines functions and procedures are used in procedural progrmming where code is split into multiple modules.
+Each module has a different name depending on the language
+They make code easier to read and write.
+This also allos code to be used multiple times.
+![[Function.png]]
+
+# Data Structures.
+
+A data structure is a programming technique used to collect and organise items in a formal structure, which helps the data to be processed efficiently.
+
+- A format of organizing and storing data.
+- Many are very common between data structures.
+    - The common data structures include string, array (one- and two- dimensional), stack, queue and record.
+
+More common data structures include:
+
+- Linked list
+- Stack
+- Table
+- Array
+- Graph
+- Binary search tree
+- Queue
+- Tree
+- Hash Table
+
+## Strings. (Or txt).
+
+- Commonly used to store simple text entered by the user, such as a username.
+- May be used to enter more complex text for processing, such as the content of an email, or tweet.
+- ‘Substring’ is used to describe a part of a large string, for example ‘Ear’ is a substring of ‘Earth’.
+
+## **Array (one-dimensional).**
+
+[https://www.youtube.com/watch?v=55l-aZ7_F24](https://www.youtube.com/watch?v=55l-aZ7_F24 "https://www.youtube.com/watch?v=55l-az7_f24")
+
+Usually, it is a static data structure, which means it has a fixed size. Modern programming languages however are more flexible and allow an array to be resized.
+
+Usually, an array can only store on type of data, such as integers, or Boolean.
+
+If we wanted to store seven daily maximum temperatures, we would create and array of seven decimal numbers.
+
+A two-dimensional array is similar to one-dimensional but can store multiple rows of data.
+
+## **Record (Or structure).**
+
+Like an array. It differs because it can store a MIX of data types within its structure.
+
+I.E., ‘Student’ and ‘Age’, are stored as integers, ‘Forename’ and ‘Surname’ are strings and ‘Enrolled’ is Boolean.
+
+# Stack
+LIFO (Last in first out)
+2 OPERATIONS, PULL AND PUSH
+PUSH = ADD DATA
+PULL = REMOVE DATA
+
+![[STASCK.png]]
+# Queue
+FIFO (FIRST IN FIRST OUT)
+ENQUE AND DEQUEUE
+ADD (TO ADD TO QUEUE)
+REMOVE FROM START OF Q)
+ONLY DATA FRM THE FRONT CAN BE ACCESSED AND REMOVED.
+![[QUQUE.png]]

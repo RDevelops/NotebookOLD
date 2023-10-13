@@ -170,3 +170,24 @@ https://www.projectmanager.com/blog/project-management-methodology
 | Widely known and accepted | May not be affective for more complex projects |
 | Basedupon known products | Can lead to confusion and inefficiency |
 | Can be used with the agile | Hard to adopt |
+
+## AGILE
+### Pros and cons
+
+| Pros | Cons |
+| -- | -- | 
+| Improved quickly | Difficult to prefict cost time and resources |
+| Speed and flexibility | Difficult to measure progress |
+| Complete transparency | Difficult to implement at first | |
+| Stakeholder engagement | Teams can get sidetracked if progress isnt seen |
+| Cost controls | |
+
+## RAD
+### pros and cons
+
+| Pros | Cons |
+| -- | -- |
+| Flexibility | Requires lots of collaberation |
+| Quick iterations | Can cause issues if ou have inexperienced devs |
+| Dependent on customer collaberation so satisfies all stakeholders | Only suitable for projects that need to be developed quickly |
+| Enhanced risk management | Harder to manage if everyone isnt together |

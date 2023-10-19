@@ -157,11 +157,7 @@
 ## https://www.tiktok.com/@google
 ## https://www.facebook.com/Google/?locale=en_GB
 ## https://twitter.com/Google?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-# BUSINESS 2: POPFLEX/KITY KAFE
-## https://www.tiktok.com/@popflexactive
-## https://twitter.com/popflex_active
-## https://www.facebook.com/popflexactive
-
-https://www.tiktok.com/@kittycafeuk
-https://www.facebook.com/KittyCafeUK
-https://twitter.com/KittyCafeUK1
+# BUSINESS 2: KITY KAFE
+## https://www.tiktok.com/@kittycafeuk
+## https://www.facebook.com/KittyCafeUK
+## https://twitter.com/KittyCafeUK1
